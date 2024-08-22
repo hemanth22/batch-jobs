@@ -1,2 +1,2 @@
 # batch-jobs
-batch-jobs folder
+batch-jobs repository for jenkins pipeline verification
