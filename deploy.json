@@ -1,4 +1,7 @@
 {
+  "ip": "193.16.16.9",
+  "username": "bitroidapps",
+  "hostname": "centos8",
   "deploymentPath": "/home/bitroidapps/apps/batch-jobs",
   "backupPath": "/home/bitroidapps/backup/batch-jobs"
 }
