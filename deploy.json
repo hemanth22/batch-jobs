@@ -1,7 +1,7 @@
 {
   "ipaddress": "193.16.16.9",
-  "username": "bitroidapps",
+  "username": "bitra",
   "hostname": "centos8",
-  "deploymentPath": "/home/bitroidapps/apps/batch-jobs",
-  "backupPath": "/home/bitroidapps/backup/batch-jobs"
+  "deploymentPath": "/home/bitra/apps/batch-jobs",
+  "backupPath": "/home/bitra/backup/batch-jobs"
 }
